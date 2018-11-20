@@ -1,0 +1,5 @@
+﻿<Project>
+    <PropertyGroup Condition="'$(NCRUNCH)' == '1' ">
+        <PaketRestoreDisabled>True</PaketRestoreDisabled>
+    </PropertyGroup>
+</Project>

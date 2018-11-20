@@ -1,0 +1,8 @@
+.idea/
+.vs/
+_NCrunch_*
+**/bin
+**/obj
+packages/
+paket-files/
+*.ncrunchsolution.user
