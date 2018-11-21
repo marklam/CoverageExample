@@ -2,4 +2,7 @@
     <PropertyGroup Condition="'$(NCRUNCH)' == '1' ">
         <PaketRestoreDisabled>True</PaketRestoreDisabled>
     </PropertyGroup>
+    <PropertyGroup>
+        <FscToolPath>D:\git\visualfsharp\Release\net40\bin</FscToolPath>
+    </PropertyGroup>
 </Project>
